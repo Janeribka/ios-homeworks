@@ -1,13 +1,14 @@
 //
 //  AppDelegate.swift
-//  Navigation
+//  Netology_IB_Instruments
 //
-//  Created by Евгения Евтеева on 18.03.2022.
+//  Created by Евгения Евтеева on 17.03.2022.
 //
 
 import UIKit
 
 @main
+
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
